@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **CLC0609/CLC0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
