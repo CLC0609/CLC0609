@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Coby</h2>
 
-- <b>S1 Controller</b> @ VATSIM UK (CID: <code>1783703</code>)
+- <b>S1 Controller</b> @ VATSIM UK <code>1783703</code>
 - <b>Contributor</b> @ VATSIM UK
 - <b>Contributor</b> @ FlyByWire Simulations
 - <b>QA Trainee</b> @ FlyByWire Simulations
