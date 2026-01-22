@@ -2,11 +2,11 @@
 
 ### Roles
 
-- <b>S1 Controller</b> @ <b>VATSIM UK</b> <code>1783703</code>  
-- <b>Technology Team</b> @ <b>VATSIM UK</b>  
-- <b>Contributor</b> @ <b>VATSIM UK</b>  
-- <b>Contributor</b> @ <b>FlyByWire Simulations</b>  
-- <b>QA Trainee</b> @ <b>FlyByWire Simulations</b>  
+- <b>S1 Controller</b> @ VATSIM UK
+- <b>Technology Team</b> @ VATSIM UK
+- <b>Sector file Contributor</b> @ VATSIM UK  
+- <b>Contributor</b> @ FlyByWire Simulations
+- <b>QA Trainee</b> @ FlyByWire Simulations 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
